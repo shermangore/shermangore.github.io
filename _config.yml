@@ -1,0 +1,32 @@
+title: Sherman Gore - Global Engineering Leader
+# profile_img: /assets/img/profile.webp
+icon_img: /assets/img/icon.webp
+
+name: "Sherman Gore"
+job: "Head of Engineering @ Basepaws"
+
+# phone_number: 012-345-6789
+address: Los Angeles, CA, USA
+email: sherman.gore@gmail.com
+linkedin_username: shermangore
+github_username: shermangore
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+# blog_url: homepage-url
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+  - Awards/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
