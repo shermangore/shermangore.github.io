@@ -2,21 +2,38 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: Basepaws (acquired by Zoetis)
+    role: Head of Engineering
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Led a team of 20 engineers to develop a new product line
+      - Managed the integration of AI and machine learning into the product
+      - Oversaw the development of a new mobile app for pet owners
+    date: October 2022 - Present
+  - title: Lob, /assets/img/icon.webp
+    role: Senior Software Engineering Manager
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Managed a team of 15 engineers to develop a new product line
+      - Oversaw the development of a new mobile app for pet owners
+      - Led the integration of AI and machine learning into the product
+    date: August 2022 - October 2023
+  - title: ScanData (acquired by Transplace)
+    role: Director, Application Development
+    description: 
+      - Led a team of 10 engineers to develop a new product line
+      - Managed the integration of AI and machine learning into the product
+      - Oversaw the development of a new mobile app for pet owners
+    date: August 2018 - August 2021
+  - title: First American Mortgage Solutions (contractor)
+    role: Senior .NET Software Engineer
+    description: 
+      - Led a team of 10 engineers to develop a new product line
+      - Managed the integration of AI and machine learning into the product
+      - Oversaw the development of a new mobile app for pet owners
+    date: January 2004 - March 2018
+  - title: VeroxTech (contractor)
+    role: Lead Software Engineer
+    description: 
+      - Led a team of 10 engineers to develop a new product line
+      - Managed the integration of AI and machine learning into the product
+      - Oversaw the development of a new mobile app for pet owners
+    date: January 2016 - August 2017
