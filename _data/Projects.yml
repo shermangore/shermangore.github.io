@@ -2,13 +2,13 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Workvalve ([https://www.workvalve.com/](in progress))"
+  - title: "Workvalve ([in progress](https://www.workvalve.com/))"
     description: 
       - Job Search Management Tool
       - Helps job hunters keep track of jobs, resumes, cover letters, interviews, and more
       - "Technology Used: React, Node.js, Express.js, MySql, Sequelize, AWS S3"
     # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "Emoji Movie Game ([https://gssr.com](in progress))"
+  - title: "Emoji Movie Game ([in progress](https://gssr.com))"
     description: 
       - Guess movie titles based on the series of emoji used
       - Originally created for use with teambuilding and icebreaker activities
