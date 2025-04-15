@@ -5,10 +5,17 @@ contents:
   - title: Basepaws (acquired by Zoetis)
     role: Head of Engineering
     description: 
-      - Led a team of 20 engineers to develop a new product line
-      - Managed the integration of AI and machine learning into the product
-      - Oversaw the development of a new mobile app for pet owners
+      - Led three small teams of engineers (Front-End/Back-End, Data, DevOps) to support an existing set of applications
+      - Revamped the existing systems to be more stable, reliable, and performant by replacing Ionic.js with React.js, an obscure non-Relational database (NEDB) with a more common one (PostgreSQL), and address multiple issues with AWS resources
+      - Reduced AWS costs by over $320,000 per year by changing availability zones, instance types, and reserved instances/savings plans
+      - Delivered both a new product line (Canine Genetics) as well as the 2nd phase of Canine Genetics on time and on budget
+      - Successfully managed the integration of Basepaws technologies into Zoetis Technical Division, including IT responsibilities, security, and compliance
     date: October 2022 - Present
+    company size: 50
+    company description: 
+      - Basepaws is a pet health company that provides genetic testing and health insights for pets.
+      - Acquired by Zoetis, a global leader in animal health.
+      - Focused on improving pet health through advanced technology and genetic analysis.
   - title: Lob, Inc.
     role: Senior Software Engineering Manager
     description: 
@@ -16,6 +23,11 @@ contents:
       - Oversaw the development of a new mobile app for pet owners
       - Led the integration of AI and machine learning into the product
     date: August 2022 - October 2023
+    company size: 200
+    company description: 
+      - Lob is a leading provider of API-based solutions for direct mail and address verification.
+      - Focused on automating and streamlining the direct mail process for businesses.
+      - Known for its innovative technology and commitment to customer satisfaction.
   - title: ScanData (acquired by Transplace)
     role: Director, Application Development
     description: 
@@ -23,6 +35,11 @@ contents:
       - Managed the integration of AI and machine learning into the product
       - Oversaw the development of a new mobile app for pet owners
     date: August 2018 - August 2021
+    company size: 35
+    company description: 
+      - ScanData is a technology company specializing in supply chain solutions.
+      - Acquired by Transplace, a leading provider of logistics technology and services.
+      - Focused on improving supply chain efficiency through advanced technology and data analysis.
   - title: First American Mortgage Solutions (contractor)
     role: Senior .NET Software Engineer
     description: 
@@ -30,10 +47,15 @@ contents:
       - Managed the integration of AI and machine learning into the product
       - Oversaw the development of a new mobile app for pet owners
     date: January 2004 - March 2018
+    company size: 21,000+
+    company description: 
+      - First American Mortgage Solutions is a leading provider of technology and data solutions for the mortgage industry.
+      - Focused on improving various mortgage processes by creating a comprehensive suite of solutions
+      - Known for its commitment to innovation and customer satisfaction.
   - title: VeroxTech (contractor)
     role: Lead Software Engineer
     description: 
-      - Led a team of 10 engineers to develop a new product line
-      - Managed the integration of AI and machine learning into the product
-      - Oversaw the development of a new mobile app for pet owners
+      - Led a team of 4 engineers to build a homeowners insurance claims management system for a specific company
+      - Used a combination of .NET, JavaScript, AngularJS, and MSSQL to build the system from the ground up
+      - Drove the decision making process for the tech stack used
     date: January 2016 - August 2017

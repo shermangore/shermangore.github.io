@@ -24,7 +24,6 @@ exclude:
   - _posts/
   - resources/
   - vendor/
-  - Awards/
 
 plugins:
   - jekyll-feed
