@@ -7,16 +7,17 @@ contents:
     description: 
       - Led three small teams of engineers (Front-End/Back-End, Data, DevOps) to support an existing set of applications
       - Revamped the existing systems to be more stable, reliable, and performant by replacing Ionic.js with React.js, an obscure non-Relational database (NEDB) with a more common one (PostgreSQL), and address multiple issues with AWS resources
-      - Reduced AWS costs by over $320,000 per year by changing availability zones, instance types, and reserved instances/savings plans
+      - Reduced AWS costs by over $320,000 per year by analysis availability zones, instance types, and reserved instances/savings plans, then adjusting accordingly
       - Delivered both a new product line (Canine Genetics) as well as the 2nd phase of Canine Genetics on time and on budget
       - Successfully managed the integration of Basepaws technologies into Zoetis Technical Division, including IT responsibilities, security, and compliance
     date: October 2022 - Present
     company size: 
-      Company Size: 50
+      - Company Size ~50
     company description: 
-      - Basepaws is a pet health company that provides genetic testing and health insights for pets.
-      - Acquired by Zoetis, a global leader in animal health.
-      - Focused on improving pet health through advanced technology and genetic analysis.
+      - Company Description
+        - Basepaws is a pet health company that provides genetic testing and health insights for pets.
+        Acquired by Zoetis, a global leader in animal health.
+        Focused on improving pet health through advanced technology and genetic analysis.
   - title: Lob, Inc.
     role: Senior Software Engineering Manager
     description: 
