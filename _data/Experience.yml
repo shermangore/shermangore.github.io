@@ -11,7 +11,8 @@ contents:
       - Delivered both a new product line (Canine Genetics) as well as the 2nd phase of Canine Genetics on time and on budget
       - Successfully managed the integration of Basepaws technologies into Zoetis Technical Division, including IT responsibilities, security, and compliance
     date: October 2022 - Present
-    company size: 50
+    company size: 
+      Company Size: 50
     company description: 
       - Basepaws is a pet health company that provides genetic testing and health insights for pets.
       - Acquired by Zoetis, a global leader in animal health.
@@ -19,9 +20,9 @@ contents:
   - title: Lob, Inc.
     role: Senior Software Engineering Manager
     description: 
-      - Managed a team of 15 engineers to develop a new product line
-      - Oversaw the development of a new mobile app for pet owners
-      - Led the integration of AI and machine learning into the product
+      - Managed a two teams of 5 engineers each - New Product Development, working on creating new products and features; Developer Experience, building SDKs, documentation, videos, and other resources for software engineers using our products
+      - Oversaw the development of a QR code generator product that allowed Lob's direct mail customers to build and understand the metrics of their mailpieces
+      - Improved the existing Address Verification product by incorporating AI to help parse complicated domestic and international addresses
     date: August 2022 - October 2023
     company size: 200
     company description: 
@@ -31,9 +32,11 @@ contents:
   - title: ScanData (acquired by Transplace)
     role: Director, Application Development
     description: 
-      - Led a team of 10 engineers to develop a new product line
-      - Managed the integration of AI and machine learning into the product
-      - Oversaw the development of a new mobile app for pet owners
+      - Led a team of 3 engineers focused on modernizing the existing product line
+      - Converted an existing client-server application to a web-based SaaS application
+        - Moved all resources to AWS, focusing on serverless technologies, RDS databases, and S3 storage
+        - Used C# and .NET Framework for the back-end, ReactJS for the front-end, and AWS Lambda for serverless functions
+      -  Grew the product from zero to over 150 million parcels processed per year in less than 12 months
     date: August 2018 - August 2021
     company size: 35
     company description: 
