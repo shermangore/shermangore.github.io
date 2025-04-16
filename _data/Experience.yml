@@ -4,7 +4,9 @@ icon: "/assets/img/briefcase.svg"
 contents:
   - title: Basepaws (acquired by Zoetis)
     role: Head of Engineering
-    description: 
+    description:
+    - description:
+      - Member of the Executive Leadership Team, reporting directly to the CEO.
       - Led three teams of engineers (Front-End/Back-End, Data, DevOps) to support an existing portfolio of applications and data, including customer, admin, and veterinary portals, as well as over 2 petabytes of genomic data. 
       - Revamped the existing systems to be more stable, reliable, and performant by replacing Ionic.js with React.js, replacing an obscure non-Relational database (NEDB) with PostgreSQL, moving from JavaScript to Typescript, and addressing AWS issues such as missing auto-scaling groups, misconfigured load balancers, and poorly maintained security groups.
       - Reduced AWS costs by over $320,000 per year by analyzing our usage of availability zones, instance types, and reserved instances/savings plans, then adjusting those resources accordingly.
