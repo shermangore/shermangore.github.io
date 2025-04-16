@@ -1,3 +1,7 @@
+subject: Summary
+listing-order: 1
+contents:
+  "testing 123."
 subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
@@ -22,7 +26,7 @@ contents:
       - Managed a two teams of 5 engineers each - New Product Development, working on creating new products and features; Developer Experience (DevEx), building SDKs, documentation, videos, and other resources for clients using our products.
       - Oversaw the development of a QR code generator and tracking product that allowed Lob's direct mail customers to build and understand the effectiveness of their mailpieces, similar to the way email is used today.
       - Improved the existing Address Verification product by incorporating AI to help parse complicated domestic and international addresses with fewer mistakes and failures.
-    date: August 2022 - October 2023
+    date: August 2021 - October 2022
     company size: 'Company Size: 200'
     company description: 'Company Description:
       Lob is a leading provider of API-based solutions for direct mail and address verification.
