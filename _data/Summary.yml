@@ -1,4 +1,5 @@
 subject: Summary
 listing-order: 1
+icon: "/assets/img/clipboard-list.svg"
 contents: 
   - text: 'testing 123.'
