@@ -3,13 +3,13 @@ listing-order: 1
 icon: "/assets/img/clipboard-list.svg"
 contents: 
   - summary: 
-    details: 'Software engineering leader with over 25 years of experience writing code, 
-      building products, managing teams, and delivering results. Member of the executive 
-      leadership team (Basepaws), former member of the architectural review board (Transplace).
+    details: 'Software engineering leader with over 25 years of experience managing teams,
+      building products, writing code, and delivering results. Member of the executive 
+      leadership team (Basepaws), former member of the architectural review board (Transplace).'
       
-      Founder of Mortek, LLC, a consulting company focused on helping small and medium-sized
-      businesses build and maintain custom software solutions.
+    details_2: 'Founder of Mortek, LLC, a consulting company focused on helping small and medium-sized
+    businesses build and maintain custom software solutions.'
 
-      Seeking a new role as an engineering leader where I can help guide the team, product, 
-      company to the next level. I am especially adept at bringing legacy codebases into the 
-      modern era, building new products, and mentoring software engineers.'
+    details_3: 'Seeking a new role as an engineering leader where I can help guide the team, product, 
+    company to the next level. I am especially adept at bringing legacy application systems into the 
+    modern era, building new products, and mentoring software engineers.'
