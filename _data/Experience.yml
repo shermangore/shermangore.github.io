@@ -11,11 +11,11 @@ contents:
       - Delivered both a new product line (Canine Genetics) as well as the updated, second phase of Canine Genetics on time and on budget.
       - Successfully managed the integration of Basepaws technologies into the Zoetis Technical Division, including IT responsibilities, security, and compliance.
     date: October 2022 - Present
-    company size: Company Size - 50
-    company description: Company Description
-      - Basepaws is a pet health company that provides genetic testing and health insights for pets.
+    company size: 'Company Size: 50'
+    company description: 'Company Description:
+      Basepaws is a pet health company that provides genetic testing and health insights for pets.
       Acquired by Zoetis, a global leader in animal health.
-      Focused on improving pet health through advanced technology and genetic analysis.
+      Focused on improving pet health through advanced technology and genetic analysis.'
   - title: Lob, Inc.
     role: Senior Software Engineering Manager
     description: 
@@ -23,11 +23,11 @@ contents:
       - Oversaw the development of a QR code generator and tracking product that allowed Lob's direct mail customers to build and understand the effectiveness of their mailpieces, similar to the way email is used today.
       - Improved the existing Address Verification product by incorporating AI to help parse complicated domestic and international addresses with fewer mistakes and failures.
     date: August 2022 - October 2023
-    company size: Company Size - 200
-    company description: Company Description
-      - Lob is a leading provider of API-based solutions for direct mail and address verification.
+    company size: 'Company Size: 200'
+    company description: 'Company Description:
+      Lob is a leading provider of API-based solutions for direct mail and address verification.
       Focused on automating and streamlining the direct mail process for businesses.
-      Known for its innovative technology and commitment to customer satisfaction.
+      Known for its innovative technology and commitment to customer satisfaction.'
   - title: ScanData (acquired by Transplace)
     role: Director, Application Development
     description: 
@@ -37,11 +37,11 @@ contents:
         - Using C# and .NET Framework for the back-end, ReactJS for the front-end, and AWS Lambda for serverless functionality.
       -  Grew the new product suite from zero to over 150 million parcels processed per year in less than 12 months.
     date: August 2018 - August 2021
-    company size: Company Size - 35
-    company description: Company Description
-      - ScanData is a technology company specializing in supply chain solutions.
+    company size: 'Company Size: 35'
+    company description: 'Company Description:
+      ScanData is a technology company specializing in supply chain solutions.
       Acquired by Transplace, a leading provider of logistics technology and services.
-      Focused on improving supply chain efficiency through advanced technology and data analysis.
+      Focused on improving supply chain efficiency through advanced technology and data analysis.'
   - title: TD Service Company (acquired by First American Mortgage Solutions) (contractor)
     role: Senior .NET Software Engineer
     description: 
@@ -49,11 +49,11 @@ contents:
       - Managed the integration of AI and machine learning into the product
       - Oversaw the development of a new mobile app for pet owners
     date: January 2004 - March 2018
-    company size: Company Size - 21,000+
-    company description: Company Description
-      - First American Mortgage Solutions is a leading provider of technology and data solutions for the mortgage industry.
+    company size: 'Company Size: 21,000+'
+    company description: 'Company Description:
+      First American Mortgage Solutions is a leading provider of technology and data solutions for the mortgage industry.
       Focused on improving various mortgage processes by creating a comprehensive suite of solutions
-      Known for its commitment to innovation and customer satisfaction.
+      Known for its commitment to innovation and customer satisfaction.'
   - title: VeroxTech (contractor)
     role: Lead Software Engineer
     description: 
@@ -61,8 +61,8 @@ contents:
       - Used a combination of .NET, JavaScript, AngularJS, and MSSQL to build the system from the ground up
       - Drove the decision making process for the tech stack used
     date: January 2016 - August 2017
-    company size: Company Size - 30
-    company description: Company Description
-      - VeroxTech was a software company building a claims management system for the homeowners insurance companies.
+    company size: 'Company Size: 30'
+    company description: 'Company Description:
+      VeroxTech was a software company building a claims management system for the homeowners insurance companies.
       It was created as a subsidiary of a large, Florida-based insurance company to help reduce the friction and cost associated with homeowner insurance claims.
-      By building the system in-house, we were able to focus the application on the specific needs of the parent company rather than off-the-shelf solutions that were less efficient.
+      By building the system in-house, we were able to focus the application on the specific needs of the parent company rather than off-the-shelf solutions that were less efficient.'
