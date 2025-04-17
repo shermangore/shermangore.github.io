@@ -6,23 +6,40 @@ contents:
     role: Head of Engineering
     description:
       - Member of the Executive Leadership Team, reporting directly to the CEO.
-      - Led three teams of engineers (Front-End/Back-End, Data, DevOps) to support an existing portfolio of applications and data, including customer, admin, and veterinary portals, as well as over 2 petabytes of genomic data. 
-      - Revamped the existing systems to be more stable, reliable, and performant by replacing Ionic.js with React.js, replacing an obscure non-Relational database (NEDB) with PostgreSQL, moving from JavaScript to Typescript, and addressing AWS issues such as missing auto-scaling groups, misconfigured load balancers, and poorly maintained security groups.
-      - Reduced AWS costs by over $320,000 per year by analyzing our usage of availability zones, instance types, and reserved instances/savings plans, then adjusting those resources accordingly.
-      - Delivered both a new product line (Canine Genetics) as well as the updated, second phase of Canine Genetics on time and on budget.
-      - Successfully managed the integration of Basepaws technologies into the Zoetis Technical Division, including IT responsibilities, security, and compliance.
+      - Led three teams of engineers (Front-End/Back-End, Data, DevOps) to support an existing 
+        portfolio of applications and data, including customer, admin, and veterinary portals, 
+        as well as over 2 petabytes of genomic data. 
+      - Revamped the existing systems to be more stable, reliable, and performant by replacing 
+        Ionic.js with React.js, replacing an obscure non-Relational database (NEDB) with 
+        PostgreSQL, moving from JavaScript to Typescript, and addressing AWS issues such as 
+        missing auto-scaling groups, misconfigured load balancers, and poorly maintained 
+        security groups.
+      - Reduced AWS costs by over $320,000 per year by analyzing our usage of availability 
+        zones, instance types, and reserved instances/savings plans, then adjusting those 
+        resources accordingly.
+      - Delivered both a new product line (Canine Genetics) as well as the updated, second 
+        phase of Canine Genetics on time and on budget.
+      - Successfully managed the integration of Basepaws technologies into the Zoetis Technical 
+        Division, including IT responsibilities, security, and compliance.
     date: October 2022 - Present
     company size: 'Company Size: 50'
     company description: 'Company Description:
-      Basepaws is a pet health company that provides genetic testing and health insights for pets.
-      Acquired by Zoetis, a global leader in animal health.
-      Focused on improving pet health through advanced technology and genetic analysis.'
+      Basepaws is aan animal health company providing genetic testing and health insights for 
+      pets.
+      Acquired by Zoetis, a global leader in animal health, focused on improving pet health 
+      through advanced technology and genetic analysis.'
   - title: Lob, Inc.
     role: Senior Software Engineering Manager
     description: 
-      - Managed a two teams of 5 engineers each - New Product Development, working on creating new products and features; Developer Experience (DevEx), building SDKs, documentation, videos, and other resources for clients using our products.
-      - Oversaw the development of a QR code generator and tracking product that allowed Lob's direct mail customers to build and understand the effectiveness of their mailpieces, similar to the way email is used today.
-      - Improved the existing Address Verification product by incorporating AI to help parse complicated domestic and international addresses with fewer mistakes and failures.
+      - Managed two teams of 5 engineers each - New Product Development, working on creating 
+        new products and features; Developer Experience/Developer Relations (DevEx/DevRel), 
+        building SDKs, documentation, videos, and other resources for internal use and external 
+        software engineers using our products.
+      - Oversaw the development of a QR code generator and tracking product that allowed Lob's 
+        direct mail customers to build and understand the effectiveness of their mailpieces, 
+        similar to the way email is used today.
+      - Improved the existing Address Verification product by incorporating AI to help parse 
+        complicated domestic and international addresses with fewer mistakes and failures.
     date: August 2021 - October 2022
     company size: 'Company Size: 200'
     company description: 'Company Description:
@@ -34,9 +51,12 @@ contents:
     description: 
       - Led a team of 3 engineers focused on modernizing the existing product line.
       - Converted the existing client-server applications to a web-based SaaS application suite by
-        - Moving all resources to AWS, focusing on serverless technologies, RDS databases, and S3 storage.
-        - Using C# and .NET Framework for the back-end, ReactJS for the front-end, and AWS Lambda for serverless functionality.
-      -  Grew the new product suite from zero to over 150 million parcels processed per year in less than 12 months.
+        - Moving all resources to AWS, focusing on serverless technologies, RDS databases, 
+          and S3 storage.
+        - Using C# and .NET Framework for the back-end, ReactJS for the front-end, and AWS 
+          Lambda for serverless functionality.
+      - Grew the new product suite from zero to over 150 million parcels processed per year 
+        in less than 12 months.
     date: August 2018 - August 2021
     company size: 'Company Size: 35'
     company description: 'Company Description:
@@ -46,15 +66,18 @@ contents:
   - title: TD Service Company (acquired by First American Mortgage Solutions) (contractor)
     role: Senior .NET Software Engineer
     description: 
-      - Worked with the company (pre- and post-acquisition) to convert and upgrade existing RPG applications to .NET.
-      - Managed the integration of AI and machine learning into the product
-      - Oversaw the development of a new mobile app for pet owners
+      - Worked with the company (pre- and post-acquisition) to convert and upgrade existing 
+        RPG applications to .NET.
+      - Reduced security vulnerabilities by refactoring code to be more secure and efficient.
+      - Improved application performance and reliability by removing existing race conditions, 
+        eliminating database deadlocks, and improving the overall architecture.
     date: January 2004 - March 2018
     company size: 'Company Size: 21,000+'
     company description: 'Company Description:
-      First American Mortgage Solutions is a leading provider of technology and data solutions for the mortgage industry.
-      Focused on improving various mortgage processes by creating a comprehensive suite of solutions
-      Known for its commitment to innovation and customer satisfaction.'
+      First American Mortgage Solutions is a leading provider of technology and data solutions 
+      for the mortgage industry.
+      Focused on improving various mortgage processes by creating a comprehensive suite of 
+      software solutions.'
   - title: VeroxTech (contractor)
     role: Lead Software Engineer
     description: 
