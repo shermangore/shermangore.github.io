@@ -50,11 +50,10 @@ contents:
     role: Director, Application Development
     description: 
       - Led a team of 3 engineers focused on modernizing the existing product line.
-      - Converted the existing client-server applications to a web-based SaaS application suite by
-        - Moving all resources to AWS, focusing on serverless technologies, RDS databases, 
-          and S3 storage.
-        - Using C# and .NET Framework for the back-end, ReactJS for the front-end, and AWS 
-          Lambda for serverless functionality.
+      - 'Converted the existing client-server applications to a web-based SaaS application suite 
+        by: Moving all resources to AWS, focusing on serverless technologies, RDS databases, and 
+        S3 storage; using C# and .NET Framework for the back-end, ReactJS for the front-end, and 
+        AWS Lambda for serverless functionality.'
       - Grew the new product suite from zero to over 150 million parcels processed per year 
         in less than 12 months.
     date: August 2018 - August 2021
