@@ -49,6 +49,7 @@ contents:
   - title: ScanData (acquired by Transplace)
     role: Director, Application Development
     description: 
+      - Member of the M&A team, responsible for technological aspects of potential acquiring companies.
       - Led a team of 3 engineers focused on modernizing the existing product line.
       - 'Converted the existing client-server applications to a web-based SaaS application suite 
         by: Moving all resources to AWS, focusing on serverless technologies, RDS databases, and 
